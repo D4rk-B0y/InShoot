@@ -49,7 +49,7 @@
 
 `$ pkg install openssl-tool`
 
-`$ pip install sudo`
+`$ pkg install tsu`
 
 `$ pkg install curl`
 
